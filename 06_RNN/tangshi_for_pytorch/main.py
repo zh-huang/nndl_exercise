@@ -128,13 +128,13 @@ def run_training():
     # 生成batch
     print("finish  loadding data")
     BATCH_SIZE = 100
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    print(device)
+    # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    # print(device)
     torch.manual_seed(5)
     word_embedding = torch.nn.Embedding(len(word_to_int) + 1, 100)
     rnn_model = rnn_lstm.RNN_model(batch_sz=BATCH_SIZE, vocab_len=len(
         word_to_int) + 1, word_embedding=word_embedding, embedding_dim=100, lstm_hidden_dim=128)
-    rnn_model = rnn_model.to(device)
+    # rnn_model = rnn_model.to(device)
     # optimizer = optim.Adam(rnn_model.parameters(), lr= 0.001)
     optimizer = optim.RMSprop(rnn_model.parameters(), lr=0.01)
 
@@ -153,8 +153,8 @@ def run_training():
             for index in range(BATCH_SIZE):
                 x = np.array(batch_x[index], dtype=np.int64)
                 y = np.array(batch_y[index], dtype=np.int64)
-                x = Variable(torch.from_numpy(np.expand_dims(x, axis=1))).to(device)
-                y = Variable(torch.from_numpy(y)).to(device)
+                x = Variable(torch.from_numpy(np.expand_dims(x, axis=1)))# .to(device)
+                y = Variable(torch.from_numpy(y))# .to(device)
                 pre = rnn_model(x)
                 loss += loss_fun(pre, y)
                 """
@@ -210,7 +210,7 @@ def gen_poem(begin_word):
                                    embedding_dim=100, lstm_hidden_dim=128)
 
     rnn_model.load_state_dict(torch.load('./poem_generator_rnn'))
-    rnn_model = rnn_model.to(device)
+    # rnn_model = rnn_model.to(device)
 
     # 指定开始的字
 
