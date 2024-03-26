@@ -164,10 +164,13 @@ def pretty_print_poem(poem):
         if w == start_token or w == end_token:
             break
         shige.append(w)
-    poem_sentences = poem.split('。')
-    for s in poem_sentences:
-        if s != '' and len(s) > 10:
-            print(s + '。')
+    with open('outpoem.txt', 'a', encoding='utf-8') as f:
+        poem_sentences = poem.split('。')
+        for s in poem_sentences:
+            if s != '' and len(s) > 10:
+                f.write(s + "。")
+            else:
+                f.write(s)
 
 
 def gen_poem(begin_word):
@@ -193,7 +196,7 @@ def gen_poem(begin_word):
             break
     return poem
 
-run_training()
+# run_training()
 
 pretty_print_poem(gen_poem("日"))
 pretty_print_poem(gen_poem("红"))

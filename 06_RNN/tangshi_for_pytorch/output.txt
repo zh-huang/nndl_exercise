@@ -1,0 +1,241 @@
+finish  loadding data
+epoch  0 batch number 0 loss is:  8.71946907043457
+epoch  0 batch number 50 loss is:  6.61630392074585
+epoch  0 batch number 100 loss is:  6.669546127319336
+epoch  0 batch number 150 loss is:  6.530772686004639
+epoch  0 batch number 200 loss is:  6.432499885559082
+epoch  0 batch number 250 loss is:  6.794744491577148
+epoch  0 batch number 300 loss is:  6.962949752807617
+finish save model
+epoch  1 batch number 0 loss is:  5.558382987976074
+epoch  1 batch number 50 loss is:  6.34292459487915
+epoch  1 batch number 100 loss is:  6.518679141998291
+epoch  1 batch number 150 loss is:  6.433816432952881
+epoch  1 batch number 200 loss is:  6.359817981719971
+epoch  1 batch number 250 loss is:  6.733880519866943
+epoch  1 batch number 300 loss is:  6.908779144287109
+finish save model
+epoch  2 batch number 0 loss is:  5.460118293762207
+epoch  2 batch number 50 loss is:  6.287565231323242
+epoch  2 batch number 100 loss is:  6.479801654815674
+epoch  2 batch number 150 loss is:  6.4076666831970215
+epoch  2 batch number 200 loss is:  6.3137969970703125
+epoch  2 batch number 250 loss is:  6.702383041381836
+epoch  2 batch number 300 loss is:  6.8771586418151855
+finish save model
+epoch  3 batch number 0 loss is:  5.3916015625
+epoch  3 batch number 50 loss is:  6.258087635040283
+epoch  3 batch number 100 loss is:  6.4510908126831055
+epoch  3 batch number 150 loss is:  6.3824543952941895
+epoch  3 batch number 200 loss is:  6.2847185134887695
+epoch  3 batch number 250 loss is:  6.6787004470825195
+epoch  3 batch number 300 loss is:  6.858093738555908
+finish save model
+epoch  4 batch number 0 loss is:  5.35575008392334
+epoch  4 batch number 50 loss is:  6.2307448387146
+epoch  4 batch number 100 loss is:  6.430347442626953
+epoch  4 batch number 150 loss is:  6.366849899291992
+epoch  4 batch number 200 loss is:  6.2765021324157715
+epoch  4 batch number 250 loss is:  6.668548107147217
+epoch  4 batch number 300 loss is:  6.848780632019043
+finish save model
+epoch  5 batch number 0 loss is:  5.309790134429932
+epoch  5 batch number 50 loss is:  6.221025466918945
+epoch  5 batch number 100 loss is:  6.424532890319824
+epoch  5 batch number 150 loss is:  6.3596649169921875
+epoch  5 batch number 200 loss is:  6.269572734832764
+epoch  5 batch number 250 loss is:  6.662288188934326
+epoch  5 batch number 300 loss is:  6.842158794403076
+finish save model
+epoch  6 batch number 0 loss is:  5.2880964279174805
+epoch  6 batch number 50 loss is:  6.210846424102783
+epoch  6 batch number 100 loss is:  6.414884567260742
+epoch  6 batch number 150 loss is:  6.3541483879089355
+epoch  6 batch number 200 loss is:  6.264310359954834
+epoch  6 batch number 250 loss is:  6.657827854156494
+epoch  6 batch number 300 loss is:  6.838857650756836
+finish save model
+epoch  7 batch number 0 loss is:  5.28636360168457
+epoch  7 batch number 50 loss is:  6.205063343048096
+epoch  7 batch number 100 loss is:  6.410914421081543
+epoch  7 batch number 150 loss is:  6.350634574890137
+epoch  7 batch number 200 loss is:  6.262998580932617
+epoch  7 batch number 250 loss is:  6.655423641204834
+epoch  7 batch number 300 loss is:  6.834468364715576
+finish save model
+epoch  8 batch number 0 loss is:  5.275857448577881
+epoch  8 batch number 50 loss is:  6.200087070465088
+epoch  8 batch number 100 loss is:  6.40464973449707
+epoch  8 batch number 150 loss is:  6.349591255187988
+epoch  8 batch number 200 loss is:  6.2626543045043945
+epoch  8 batch number 250 loss is:  6.652772903442383
+epoch  8 batch number 300 loss is:  6.832643985748291
+finish save model
+epoch  9 batch number 0 loss is:  5.261707782745361
+epoch  9 batch number 50 loss is:  6.19849967956543
+epoch  9 batch number 100 loss is:  6.401774883270264
+epoch  9 batch number 150 loss is:  6.3486127853393555
+epoch  9 batch number 200 loss is:  6.25985860824585
+epoch  9 batch number 250 loss is:  6.650739669799805
+epoch  9 batch number 300 loss is:  6.831082820892334
+finish save model
+epoch  10 batch number 0 loss is:  5.24741268157959
+epoch  10 batch number 50 loss is:  6.196410655975342
+epoch  10 batch number 100 loss is:  6.399474620819092
+epoch  10 batch number 150 loss is:  6.348923206329346
+epoch  10 batch number 200 loss is:  6.260421276092529
+epoch  10 batch number 250 loss is:  6.651463508605957
+epoch  10 batch number 300 loss is:  6.830231189727783
+finish save model
+epoch  11 batch number 0 loss is:  5.246333599090576
+epoch  11 batch number 50 loss is:  6.192233085632324
+epoch  11 batch number 100 loss is:  6.393885612487793
+epoch  11 batch number 150 loss is:  6.3479485511779785
+epoch  11 batch number 200 loss is:  6.258119106292725
+epoch  11 batch number 250 loss is:  6.649781703948975
+epoch  11 batch number 300 loss is:  6.83022403717041
+finish save model
+epoch  12 batch number 0 loss is:  5.235332489013672
+epoch  12 batch number 50 loss is:  6.191215991973877
+epoch  12 batch number 100 loss is:  6.392332553863525
+epoch  12 batch number 150 loss is:  6.343521595001221
+epoch  12 batch number 200 loss is:  6.2541704177856445
+epoch  12 batch number 250 loss is:  6.649090766906738
+epoch  12 batch number 300 loss is:  6.825915336608887
+finish save model
+epoch  13 batch number 0 loss is:  5.240899562835693
+epoch  13 batch number 50 loss is:  6.18576717376709
+epoch  13 batch number 100 loss is:  6.398221492767334
+epoch  13 batch number 150 loss is:  6.339691162109375
+epoch  13 batch number 200 loss is:  6.255183696746826
+epoch  13 batch number 250 loss is:  6.647877216339111
+epoch  13 batch number 300 loss is:  6.828800201416016
+finish save model
+epoch  14 batch number 0 loss is:  5.2370805740356445
+epoch  14 batch number 50 loss is:  6.188047885894775
+epoch  14 batch number 100 loss is:  6.391047954559326
+epoch  14 batch number 150 loss is:  6.341925144195557
+epoch  14 batch number 200 loss is:  6.255105495452881
+epoch  14 batch number 250 loss is:  6.645298957824707
+epoch  14 batch number 300 loss is:  6.827049732208252
+finish save model
+epoch  15 batch number 0 loss is:  5.231200695037842
+epoch  15 batch number 50 loss is:  6.190737724304199
+epoch  15 batch number 100 loss is:  6.392174243927002
+epoch  15 batch number 150 loss is:  6.337362766265869
+epoch  15 batch number 200 loss is:  6.253640651702881
+epoch  15 batch number 250 loss is:  6.6449875831604
+epoch  15 batch number 300 loss is:  6.8263163566589355
+finish save model
+epoch  16 batch number 0 loss is:  5.224004745483398
+epoch  16 batch number 50 loss is:  6.189587593078613
+epoch  16 batch number 100 loss is:  6.388693332672119
+epoch  16 batch number 150 loss is:  6.342261791229248
+epoch  16 batch number 200 loss is:  6.2513837814331055
+epoch  16 batch number 250 loss is:  6.644647121429443
+epoch  16 batch number 300 loss is:  6.824055194854736
+finish save model
+epoch  17 batch number 0 loss is:  5.22256326675415
+epoch  17 batch number 50 loss is:  6.188562393188477
+epoch  17 batch number 100 loss is:  6.394783973693848
+epoch  17 batch number 150 loss is:  6.342044830322266
+epoch  17 batch number 200 loss is:  6.251226902008057
+epoch  17 batch number 250 loss is:  6.642233848571777
+epoch  17 batch number 300 loss is:  6.82510232925415
+finish save model
+epoch  18 batch number 0 loss is:  5.22024393081665
+epoch  18 batch number 50 loss is:  6.188665866851807
+epoch  18 batch number 100 loss is:  6.390946865081787
+epoch  18 batch number 150 loss is:  6.343109607696533
+epoch  18 batch number 200 loss is:  6.253497123718262
+epoch  18 batch number 250 loss is:  6.644725322723389
+epoch  18 batch number 300 loss is:  6.824966907501221
+finish save model
+epoch  19 batch number 0 loss is:  5.2333574295043945
+epoch  19 batch number 50 loss is:  6.191216945648193
+epoch  19 batch number 100 loss is:  6.386512279510498
+epoch  19 batch number 150 loss is:  6.347137451171875
+epoch  19 batch number 200 loss is:  6.254800796508789
+epoch  19 batch number 250 loss is:  6.645090103149414
+epoch  19 batch number 300 loss is:  6.822577953338623
+finish save model
+epoch  20 batch number 0 loss is:  5.2296624183654785
+epoch  20 batch number 50 loss is:  6.187641143798828
+epoch  20 batch number 100 loss is:  6.390700817108154
+epoch  20 batch number 150 loss is:  6.3434906005859375
+epoch  20 batch number 200 loss is:  6.252421855926514
+epoch  20 batch number 250 loss is:  6.640871524810791
+epoch  20 batch number 300 loss is:  6.823045253753662
+finish save model
+epoch  21 batch number 0 loss is:  5.23004150390625
+epoch  21 batch number 50 loss is:  6.187630653381348
+epoch  21 batch number 100 loss is:  6.387042045593262
+epoch  21 batch number 150 loss is:  6.345702648162842
+epoch  21 batch number 200 loss is:  6.254093647003174
+epoch  21 batch number 250 loss is:  6.641795635223389
+epoch  21 batch number 300 loss is:  6.823217868804932
+finish save model
+epoch  22 batch number 0 loss is:  5.221223831176758
+epoch  22 batch number 50 loss is:  6.193582534790039
+epoch  22 batch number 100 loss is:  6.393915176391602
+epoch  22 batch number 150 loss is:  6.344477653503418
+epoch  22 batch number 200 loss is:  6.254950523376465
+epoch  22 batch number 250 loss is:  6.643001556396484
+epoch  22 batch number 300 loss is:  6.8202643394470215
+finish save model
+epoch  23 batch number 0 loss is:  5.2188191413879395
+epoch  23 batch number 50 loss is:  6.183432579040527
+epoch  23 batch number 100 loss is:  6.385659217834473
+epoch  23 batch number 150 loss is:  6.3426713943481445
+epoch  23 batch number 200 loss is:  6.2534332275390625
+epoch  23 batch number 250 loss is:  6.6453375816345215
+epoch  23 batch number 300 loss is:  6.821132183074951
+finish save model
+epoch  24 batch number 0 loss is:  5.217318534851074
+epoch  24 batch number 50 loss is:  6.189389228820801
+epoch  24 batch number 100 loss is:  6.389150619506836
+epoch  24 batch number 150 loss is:  6.3391900062561035
+epoch  24 batch number 200 loss is:  6.251442909240723
+epoch  24 batch number 250 loss is:  6.644453525543213
+epoch  24 batch number 300 loss is:  6.822758197784424
+finish save model
+epoch  25 batch number 0 loss is:  5.216078281402588
+epoch  25 batch number 50 loss is:  6.188369274139404
+epoch  25 batch number 100 loss is:  6.390113353729248
+epoch  25 batch number 150 loss is:  6.343076705932617
+epoch  25 batch number 200 loss is:  6.252471446990967
+epoch  25 batch number 250 loss is:  6.645237445831299
+epoch  25 batch number 300 loss is:  6.8236002922058105
+finish save model
+epoch  26 batch number 0 loss is:  5.229248523712158
+epoch  26 batch number 50 loss is:  6.188098907470703
+epoch  26 batch number 100 loss is:  6.391839504241943
+epoch  26 batch number 150 loss is:  6.343426704406738
+epoch  26 batch number 200 loss is:  6.252208709716797
+epoch  26 batch number 250 loss is:  6.643396377563477
+epoch  26 batch number 300 loss is:  6.827823638916016
+finish save model
+epoch  27 batch number 0 loss is:  5.222277641296387
+epoch  27 batch number 50 loss is:  6.187031269073486
+epoch  27 batch number 100 loss is:  6.391060829162598
+epoch  27 batch number 150 loss is:  6.344829559326172
+epoch  27 batch number 200 loss is:  6.254635810852051
+epoch  27 batch number 250 loss is:  6.643364429473877
+epoch  27 batch number 300 loss is:  6.82720947265625
+finish save model
+epoch  28 batch number 0 loss is:  5.2134552001953125
+epoch  28 batch number 50 loss is:  6.184263229370117
+epoch  28 batch number 100 loss is:  6.387042045593262
+epoch  28 batch number 150 loss is:  6.340488910675049
+epoch  28 batch number 200 loss is:  6.252641677856445
+epoch  28 batch number 250 loss is:  6.643813610076904
+epoch  28 batch number 300 loss is:  6.823772430419922
+finish save model
+epoch  29 batch number 0 loss is:  5.218746185302734
+epoch  29 batch number 50 loss is:  6.187811851501465
+epoch  29 batch number 100 loss is:  6.3902740478515625
+epoch  29 batch number 150 loss is:  6.342319965362549
+epoch  29 batch number 200 loss is:  6.256019115447998
+epoch  29 batch number 250 loss is:  6.645854473114014
+epoch  29 batch number 300 loss is:  6.824039936065674
+finish save model
